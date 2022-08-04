@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://www.adept.co.uk/wp-content/uploads/2021/06/data-network-installation.jpg"  />
+</div>
+
+###
+
 <h1 align="center">Hi there 👋</h1>
 
 ###
@@ -38,6 +44,23 @@
   <a href="https://twitter.com/ignaciogtan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+</div>
+
+###
+
+<img href="https://raw.githubusercontent.com/nachogtan/nachogtan/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nachogtan" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&custom_title=sql&username=nachogtan" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
