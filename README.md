@@ -1,4 +1,3 @@
-<img href="https://raw.githubusercontent.com/nachogtan/nachogtan/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
