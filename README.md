@@ -1,3 +1,6 @@
+![fondogithub](https://github.com/user-attachments/assets/b40274a0-4bdb-440e-b8cf-824a07f8c33e)
+
+
 <div align="center">
   <img src="https://i.imgur.com/your-image-url.png" alt="Abstract Blue Wave - Hacking Vibe" width="auto"/> <h1>Hi there, I'm nachogtan!</h1>
   <h3>Unraveling the digital whispers.</h3>
