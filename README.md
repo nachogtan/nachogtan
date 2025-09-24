@@ -3,7 +3,7 @@
 
 ### 👋 Hello! I'm nachogtan
 
-I'm a professional passionate about **Cybersecurity** with a solid foundation in **Data Analysis** and **Problem Solving**. Currently, I am pursuing a **Higher Level Training Cycle in Networked Computer Systems Administration (ASIR)** and actively exploring the world of digital protection.
+I'm passionate about **Cybersecurity** with a solid foundation in **Data Analysis** and **Problem Solving**. Currently, I am pursuing a **Higher Level Training Cycle in Networked Computer Systems Administration (ASIR)** and actively exploring the world of digital protection.
 
 My main focus is on **Defense in Depth** and **Blue Team** operations, with a strong interest in **SOC Analysis** and **Ethical Hacking**.
 
