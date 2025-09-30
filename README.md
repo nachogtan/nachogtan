@@ -12,7 +12,7 @@ My main focus is on **Defense in Depth** and **Blue Team** operations, with a st
 ### 🛠️ Key Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,mysql,html,css,js,java" />
+  <img src="https://skillicons.dev/icons?i=bash,linux,docker,python,mysql,html,css,js,java" />
 </div>
 
 ---
