@@ -1,5 +1,3 @@
-![fondogithub](https://github.com/user-attachments/assets/b40274a0-4bdb-440e-b8cf-824a07f8c33e)
-
 
 ### 👋 Hello! I'm nachogtan
 
