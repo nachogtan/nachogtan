@@ -15,6 +15,7 @@ A highly motivated **Computer Systems and Network Administration (ASIR) student*
   <img src="https://skillicons.dev/icons?i=bash,linux,docker,python,mysql,html,css,js,java" />
 </div>
 
+
 I specialize in the practical application of the following technologies:
 
 | Category | Skills & Focus Areas |
