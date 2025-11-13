@@ -1,27 +1,40 @@
 
-### 👋 Hello! I'm nachogtan
+# nachogtan | Systems and Infrastructure Administration Portfolio
 
-I'm passionate about **Cybersecurity** with a solid foundation in **Data Analysis** and **Problem Solving**. Currently, I am pursuing a **Higher Level Training Cycle in Networked Computer Systems Administration (ASIR)** and actively exploring the world of digital protection.
+## 👋 Hello! I'm nachogtan
 
-My main focus is on **Defense in Depth** and **Blue Team** operations, with a strong interest in **SOC Analysis** and **Ethical Hacking**.
+A highly motivated **Computer Systems and Network Administration (ASIR) student** focused on building, managing, and securing robust IT infrastructures. My background in data analysis has equipped me with strong problem-solving and critical thinking skills essential for troubleshooting complex system and network challenges.
+
+**🎯 Goal:** Seeking my first professional role in **Junior Systems Administration, Level 2 IT Support, or Network Engineering** where I can apply the full spectrum of my ASIR training.
 
 ---
 
-### 🛠️ Key Skills
+### 🛠️ Key Skills & Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash,linux,docker,python,mysql,html,css,js,java" />
 </div>
 
+I specialize in the practical application of the following technologies:
+
+| Category | Skills & Focus Areas |
+| :--- | :--- |
+| **System Administration** | **Active Directory** (AD), Windows Server, Linux (CLI), **Virtualization** (VirtualBox/Hyper-V), PowerShell |
+| **Networking** | **TCP/IP** Configuration, **Firewall** Management, Network Troubleshooting, **Wireshark**, Nmap |
+| **Cyber Defense (ASIR Security)** | **SIEM (Splunk)**, Log Analysis, Vulnerability Assessment, System Hardening, Ethical Hacking Principles |
+| **Automation** | Bash Scripting, Python for Admin Tasks, Docker containers|
+
 ---
 
-### 🚀 What I'm Working On
-
--   **🎓 Academic Training:** Currently studying for my Higher Level Training Cycle (ASIR) to deepen my knowledge in systems and networks.
--   **🌐 Cybersecurity Home-Lab:** I have designed and implemented my own laboratory environment, simulating a mini **SOC**. Here, I configure networks, virtual machines, servers, and firewalls to analyze external attacks and manage incident response using a **Splunk** server for log analysis. This experience has allowed me me to work with **Active Directory**, **Wireshark**, and **Nmap**.
--   **📚 Continuous Learning:** Expanding my knowledge and skills on platforms like TryHackMe, exploring vulnerabilities and mitigation techniques.
-
 ---
+
+### 📚 Continuous Learning
+
+* **Academic:** Currently deepening knowledge in network protocols and server administration through my ASIR program.
+* **Practical:** Ongoing development of automation scripts (Python/Bash) to streamline typical Sysadmin tasks.
+* **Security:** Expanding penetration testing skills on platforms like TryHackMe to better understand system weaknesses.
+---
+
 
 ### 📈 GitHub Stats
 
