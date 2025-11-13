@@ -14,7 +14,7 @@ A highly motivated **Computer Systems and Network Administration (ASIR) student*
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bash,linux,docker,python,mysql,html,css,js,java" />
 </div>
-
+<br>
 
 I specialize in the practical application of the following technologies:
 
@@ -24,8 +24,6 @@ I specialize in the practical application of the following technologies:
 | **Networking** | **TCP/IP** Configuration, **Firewall** Management, Network Troubleshooting, **Wireshark**, Nmap |
 | **Cyber Defense (ASIR Security)** | **SIEM (Splunk)**, Log Analysis, Vulnerability Assessment, System Hardening, Ethical Hacking Principles |
 | **Automation** | Bash Scripting, Python for Admin Tasks, Docker containers|
-
----
 
 ---
 
