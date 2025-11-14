@@ -16,15 +16,6 @@ A highly motivated **Computer Systems and Network Administration (ASIR) student*
 </div>
 <br>
 
-I specialize in the practical application of the following technologies:
-
-| Category | Skills & Focus Areas |
-| :--- | :--- |
-| **System Administration** | **Active Directory** (AD), Windows Server, Linux (CLI), **Virtualization** (VirtualBox/Hyper-V), PowerShell |
-| **Networking** | **TCP/IP** Configuration, **Firewall** Management, Network Troubleshooting, **Wireshark**, Nmap |
-| **Cyber Defense (ASIR Security)** | **SIEM (Splunk)**, Log Analysis, Vulnerability Assessment, System Hardening, Ethical Hacking Principles |
-| **Automation** | Bash Scripting, Python for Admin Tasks, Docker containers|
-
 ---
 
 ### 📚 Continuous Learning
