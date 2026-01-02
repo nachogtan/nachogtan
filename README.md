@@ -30,6 +30,8 @@ A highly motivated **Computer Systems and Network Administration (ASIR) student*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nachogtan&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="NachoGTAN's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachogtan&layout=compact&theme=dracula&hide_border=false" alt="Most Used Languages" />
 </div>
 
 ---
