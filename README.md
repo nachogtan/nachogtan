@@ -73,10 +73,6 @@ I build and automate infrastructure, from Linux servers and networks to Kubernet
 ### Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ignaciogait%C3%A1n/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn Profile" />
-  </a>
-  <a href="mailto:ignaciogtan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Email Ignacio" />
-  </a>
+  <a href="https://www.linkedin.com/in/ignaciogait%C3%A1n/"><img src="https://img.shields.io/badge/LinkedIn-70a5fd?style=for-the-badge" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:ignaciogtan@gmail.com"><img src="https://img.shields.io/badge/Email-70a5fd?style=for-the-badge" alt="Email" /></a>
 </div>
