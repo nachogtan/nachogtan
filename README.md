@@ -1,35 +1,71 @@
+# Ignacio Gaitán · Infrastructure & Automation
 
-# nachogtan | Systems and Infrastructure Administration Portfolio
+I build and automate infrastructure, from Linux servers and networks to Kubernetes and GitOps pipelines. My focus is on making systems reliable, secure, and increasingly autonomous, with a growing interest in how AI can help operate them.
 
-## Hello! I'm nachogtan
-
-A highly motivated **Computer Systems and Network Administration (ASIR) student** focused on building, managing, and securing robust IT infrastructures. My background in data analysis has equipped me with strong problem-solving and critical thinking skills essential for troubleshooting complex system and network challenges.
-
-**My Goal:** Seeking my first professional role in **Junior Systems Administration, Level 2 IT Support, or Network Engineering** where I can apply the full spectrum of my ASIR training.
+**Open to:** Junior SysAdmin · DevOps · Cloud / Infrastructure roles
 
 ---
 
-### Key Skills & Technologies
+### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,linux,docker,python,mysql,html,css,js,java" />
+  <img src="https://cdn.simpleicons.org/ansible/70a5fd" width="40" height="40" alt="Ansible" title="Ansible" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/terraform/70a5fd" width="40" height="40" alt="Terraform" title="Terraform" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kubernetes/70a5fd" width="40" height="40" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/70a5fd" width="40" height="40" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/argo/70a5fd" width="40" height="40" alt="Argo CD" title="Argo CD" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/70a5fd" width="40" height="40" alt="GitHub Actions" title="GitHub Actions" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prometheus/70a5fd" width="40" height="40" alt="Prometheus" title="Prometheus" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/grafana/70a5fd" width="40" height="40" alt="Grafana" title="Grafana" />
+  <br><br>
+  <img src="https://cdn.simpleicons.org/proxmox/70a5fd" width="40" height="40" alt="Proxmox VE" title="Proxmox VE" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireguard/70a5fd" width="40" height="40" alt="WireGuard" title="WireGuard / NetBird" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/70a5fd" width="40" height="40" alt="Linux" title="Linux" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/70a5fd" width="40" height="40" alt="Bash" title="Bash" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/70a5fd" width="40" height="40" alt="Python" title="Python" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/70a5fd" width="40" height="40" alt="Git" title="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/70a5fd" width="40" height="40" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/70a5fd" width="40" height="40" alt="MySQL" title="MySQL" />
 </div>
+
+---
+
+### Current Focus
+
+* **Infrastructure as Code & GitOps** — Hybrid platform on Proxmox VE + AWS with Terraform, Ansible, k3s and Argo CD.
+* **Cloud** — Extending on-prem workloads to public cloud and learning cloud-native architecture.
+* **Automation & CI/CD** — Pipelines and workflows that build, test, and deploy without manual steps.
+* **AIOps** — Observability as a foundation: metrics, logs, and AI-assisted operations.
+* **AI agents for infrastructure** — Experimenting with LLM-driven agents that help operate and troubleshoot systems.
+
+---
+
+### Featured Projects
+
+<details open>
+<summary><b>Infrastructure & DevOps</b></summary>
 <br>
 
+* **[tfg-plataforma-hibrida](https://github.com/nachogtan/tfg-plataforma-hibrida)** — Hybrid Infrastructure-as-Code platform spanning Proxmox VE and AWS, connected through a NetBird (WireGuard) mesh network. Final project for my ASIR degree.
+* **[Docker-iac-network-deployment](https://github.com/nachogtan/Docker-iac-network-deployment)** — Containerized network deployment defined as code: segmented topology with NGINX as web server, Pi-hole as DNS resolver, and multiple Ubuntu clients.
+* **[Multi-Homed Router & Firewall with Debian](https://github.com/nachogtan/Home-Lab-Project-Building-a-Multi-Hommed-Router-and-Firewall-with-Debian)** — Lab simulating a real-world network, with a Debian server acting as router and firewall between Windows Server and Linux hosts across multiple segments.
+
+</details>
+
+<details>
+<summary><b>Scripting & Tools</b></summary>
+<br>
+
+* **[script_task_helper](https://github.com/nachogtan/script_task_helper)** — Interactive Bash tool that guides new Linux users through common system tasks.
+
+</details>
+
 ---
 
-### Continuous Learning
-
-* **Academic:** Currently deepening knowledge in network protocols and server administration through my ASIR program.
-* **Practical:** Ongoing development of automation scripts (Python/Bash) to streamline typical Sysadmin tasks.
-* **Security:** Expanding penetration testing skills on platforms like TryHackMe to better understand system weaknesses.
----
-
-
-### GitHub Stats
+### GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nachogtan&theme=dracula" alt="Stats Detalladas" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
 </div>
 
 ---
@@ -42,8 +78,5 @@ A highly motivated **Computer Systems and Network Administration (ASIR) student*
   </a>
   <a href="mailto:ignaciogtan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Email Ignacio" />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" />
   </a>
 </div>
